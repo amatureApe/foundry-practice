@@ -9,3 +9,5 @@
 [submodule "foundry_dependencies/lib/solmate"]
 	path = foundry_dependencies/lib/solmate
 	url = https://github.com/transmissions11/solmate
+[submodule "lib/solmate"]
+	branch = v7
