@@ -6,3 +6,6 @@
 [submodule "foundry_dependencies/lib/forge-std"]
 	path = foundry_dependencies/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "foundry_dependencies/lib/solmate"]
+	path = foundry_dependencies/lib/solmate
+	url = https://github.com/transmissions11/solmate
