@@ -47,7 +47,7 @@
       "versionRequirement": ">=0.5.0",
       "artifacts": {
         "DSTest": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "test.sol/DSTest.0.8.17.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "test.sol/DSTest.json"
         }
       }
     },
@@ -90,13 +90,13 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "CommonBase": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Base.sol/CommonBase.0.8.17.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Base.sol/CommonBase.json"
         },
         "ScriptBase": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Base.sol/ScriptBase.0.8.17.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Base.sol/ScriptBase.json"
         },
         "TestBase": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Base.sol/TestBase.0.8.17.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Base.sol/TestBase.json"
         }
       }
     },
@@ -190,7 +190,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdAssertions": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdAssertions.sol/StdAssertions.0.8.17.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdAssertions.sol/StdAssertions.json"
         }
       }
     },
@@ -232,7 +232,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdChains": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdChains.sol/StdChains.0.8.17.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdChains.sol/StdChains.json"
         }
       }
     },
@@ -275,10 +275,10 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdCheats": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdCheats.sol/StdCheats.0.8.17.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdCheats.sol/StdCheats.json"
         },
         "StdCheatsSafe": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdCheats.sol/StdCheatsSafe.0.8.17.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdCheats.sol/StdCheatsSafe.json"
         }
       }
     },
@@ -318,7 +318,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "stdError": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdError.sol/stdError.0.8.17.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdError.sol/stdError.json"
         }
       }
     },
@@ -360,7 +360,7 @@
       "versionRequirement": ">=0.6.0, <0.9.0",
       "artifacts": {
         "stdJson": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdJson.sol/stdJson.0.8.17.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdJson.sol/stdJson.json"
         }
       }
     },
@@ -400,7 +400,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "stdMath": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdMath.sol/stdMath.0.8.17.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdMath.sol/stdMath.json"
         }
       }
     },
@@ -442,10 +442,10 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "stdStorage": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdStorage.sol/stdStorage.0.8.17.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdStorage.sol/stdStorage.json"
         },
         "stdStorageSafe": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdStorage.sol/stdStorageSafe.0.8.17.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdStorage.sol/stdStorageSafe.json"
         }
       }
     },
@@ -487,7 +487,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdUtils": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdUtils.sol/StdUtils.0.8.17.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdUtils.sol/StdUtils.json"
         }
       }
     },
@@ -541,7 +541,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "Test": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Test.sol/Test.0.8.17.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Test.sol/Test.json"
         }
       }
     },
@@ -581,10 +581,10 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "Vm": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Vm.sol/Vm.0.8.17.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Vm.sol/Vm.json"
         },
         "VmSafe": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Vm.sol/VmSafe.0.8.17.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Vm.sol/VmSafe.json"
         }
       }
     },
@@ -624,7 +624,7 @@
       "versionRequirement": ">=0.4.22, <0.9.0",
       "artifacts": {
         "console": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "console.sol/console.0.8.17.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "console.sol/console.json"
         }
       }
     },
@@ -664,7 +664,7 @@
       "versionRequirement": ">=0.4.22, <0.9.0",
       "artifacts": {
         "console2": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "console2.sol/console2.0.8.17.json"
+          "0.8.17+commit.8df45f5f.Darwin.appleclang": "console2.sol/console2.json"
         }
       }
     },
@@ -840,6 +840,46 @@
         }
       }
     },
+    "src/SimpleStorage.sol": {
+      "lastModificationDate": 1674004482948,
+      "contentHash": "7ec92ab528fd3fe5f9e85dd0009f62c0",
+      "sourceName": "src/SimpleStorage.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": "=0.8.10",
+      "artifacts": {
+        "SimpleStorageContract": {
+          "0.8.10+commit.fc410830.Darwin.appleclang": "SimpleStorage.sol/SimpleStorageContract.json"
+        }
+      }
+    },
     "src/UpOnly.sol": {
       "lastModificationDate": 1673991759982,
       "contentHash": "4521e9552f704cd4ade4f80db7b4094e",
@@ -993,8 +1033,8 @@
       }
     },
     "test/ForkTest.t.sol": {
-      "lastModificationDate": 1674001895812,
-      "contentHash": "9b9064a8642bbdda408d191890157583",
+      "lastModificationDate": 1674002170801,
+      "contentHash": "2b5fd177e5a1bde79b86e53dbcfebba0",
       "sourceName": "test/ForkTest.t.sol",
       "solcConfig": {
         "settings": {
@@ -1044,6 +1084,62 @@
       "artifacts": {
         "ForkTest": {
           "0.8.10+commit.fc410830.Darwin.appleclang": "ForkTest.t.sol/ForkTest.json"
+        }
+      }
+    },
+    "test/ForkTest2.t.sol": {
+      "lastModificationDate": 1674004559233,
+      "contentHash": "3acee3e3b57fdb751edb200876a44d39",
+      "sourceName": "test/ForkTest2.t.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "lib/forge-std/lib/ds-test/src/test.sol",
+        "lib/forge-std/src/Base.sol",
+        "lib/forge-std/src/StdAssertions.sol",
+        "lib/forge-std/src/StdChains.sol",
+        "lib/forge-std/src/StdCheats.sol",
+        "lib/forge-std/src/StdError.sol",
+        "lib/forge-std/src/StdJson.sol",
+        "lib/forge-std/src/StdMath.sol",
+        "lib/forge-std/src/StdStorage.sol",
+        "lib/forge-std/src/StdUtils.sol",
+        "lib/forge-std/src/Test.sol",
+        "lib/forge-std/src/Vm.sol",
+        "lib/forge-std/src/console.sol",
+        "lib/forge-std/src/console2.sol",
+        "src/SimpleStorage.sol"
+      ],
+      "versionRequirement": "=0.8.10",
+      "artifacts": {
+        "ForkTest2": {
+          "0.8.10+commit.fc410830.Darwin.appleclang": "ForkTest2.t.sol/ForkTest2.json"
         }
       }
     },
